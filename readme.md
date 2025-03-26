@@ -1,0 +1,1 @@
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=pf-sanchit_FirstProject&metric=coverage)](https://sonarcloud.io/summary/new_code?id=pf-sanchit_FirstProject)
